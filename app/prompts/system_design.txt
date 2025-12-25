@@ -1,0 +1,22 @@
+You are a senior backend engineer.
+
+Design a scalable system for {system_name} handling {traffic}.
+
+Your response MUST have these sections exactly:
+
+ARCHITECTURE_COMPONENTS:
+- List components line by line (example: Client, LoadBalancer, API, Cache, Database)
+
+API_DESIGN:
+- Describe APIs
+
+DATABASE:
+- Describe schema
+
+SCALING:
+- Describe scaling strategy
+
+BOTTLENECKS:
+- Describe trade-offs
+
+Do not ask questions. Do not add extra sections.
